@@ -16,6 +16,7 @@
 - 👋 Hi, I'm @iappaPedroza
 - 🤔 Researching technologies and developing intelligent software solutions.
 - 🎓 Studying ADS at Unopar/Anhanguera.
+- 🎓 Studying ELETRONIC ENGINEERING at UFRPE.
 - 💼 Since 1996 - CEO and Founder as a Full Stack Developer and IT Technician at ITS Tecnologia Criativa.
 - 💼 Since 2021, I have been working as a Full Stack Developer in PHP/LARAVEL/MySQL/jQuery/JavaScript at SiestaBOX Participações Ltda.
 - 🌱 Learning more about Python, AI, Data Analytics, IoT, Arduino, and ESP32.
@@ -26,6 +27,7 @@
 - 👋 Hola, soy @iappaPedroza
 - 🤔 Investigando tecnologías y desarrollando soluciones inteligentes en software.
 - 🎓 Estudiando ADS en Unopar/Anhanguera.
+- 🎓 Estudiando Engeniaria Electronica en UFRPE.
 - 💼 Desde 1996 - CEO y Fundador como Desarrollador Full Stack y Técnico en Informática en ITS Tecnologia Criativa.
 - 💼 Desde 2021, trabajo como Desarrollador Full Stack en PHP/LARAVEL/MySQL/jQuery/JavaScript en SiestaBOX Participações Ltda.
 - 🌱 Aprendiendo más sobre Python, IA, Análisis de Datos, IoT, Arduino y ESP32.
