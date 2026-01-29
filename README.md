@@ -5,6 +5,7 @@
 - 👋 Olá, sou @iappaPedroza
 - 🤔 Pesquisando tecnologias e desenvolvendo soluções Inteligentes em software.
 - 🎓 Graduando ADS na Unopar/Anhanguera.
+- - 🎓 Graduando ENG ELETRÔNICA na UFRPE.
 - 💼 Desde 1996 - CEO e Fundador como Full Stack Dev e Técnico em Informática na ITS Tecnologia Criativa.
 - 💼 Desde 2021 atuo como Full Stack Dev em PHP/LARAVEL/MySQL/jQuery/JavaScript na SiestaBOX Participações Ltda.
 - 🌱 Aprendendo mais sobre Python, IA, Data Analytics, IoT, Arduino e ESP32.
